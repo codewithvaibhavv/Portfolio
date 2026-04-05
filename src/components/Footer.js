@@ -2,10 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-<<<<<<< HEAD
-=======
-  AiOutlineTwitter,
->>>>>>> 730a456 (Initial portfolio setup with Vercel config)
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
